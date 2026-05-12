@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Droher Dore Deho
+
+This log tracks the cryptographic history and versioning for the song **Droher Dore Deho** (droher-dore-deho).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T06:41:58.815650 | `v1` | `fde7bad316fc77ccfd1776417946b6219bc44f2699eee1e7ac9aacb4b6b140d4` | `881f0510c03785bed44c1cbe4c40aff372c4583b597bc39f7df00532629ccb2e` | `2026-05-12_droher-dore-deho-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

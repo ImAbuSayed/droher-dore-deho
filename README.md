@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/droher-dore-deho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Droher Dore Deho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/droher-dore-deho/) |
+| **Get License** | [Get License For Droher Dore Deho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/droher-dore-deho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা তৃষ্ণায় পুড়ছে এ রাত, বুকের গভীরে মাতাল হাওয়া
+> কাছাকাছি এসো ছায়ার মতন, এ মন চাইছে তোমাকে পাওয়া
+> উষ্ণ নিঃশ্বাসে হারাই সীমানা, তোমার ইশারায় ঘনিয়ে আসে
+> পাগল করা এই মায়ার বাঁধনে, ভাসতে চাই আজ তোমার পাশে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
